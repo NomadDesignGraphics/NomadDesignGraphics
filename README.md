@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gökhan TOSUN</h1>
 <h3 align="center">People around me also calls me """Nomad""" or """SERVER"""</h3>
 
-- 🔭 I’m currently working on **ASP.NET MVC5.0**
+- 🔭 I’m currently working on a **ASP.NET MVC5.0 project**
 
-- 🌱 I’m currently learning **C# / Node.JS / MVC-5 / ASP.NET / JS / TSQL**
+- 🌱 I’m currently learning **C# / Node.JS / MVC-5 / JS / TSQL**
 
 - 📫 How to reach me **toshungokhanisbirlik@gmail.com**
 
-- ⚡ Fun fact **I love birds and right now i am living with my Sulphur-Cockatoo parrot**
+- ⚡ Fun fact **I love birds and i am living with my Sulphur-Cockatoo parrot**
 
 
 <h3 align="left">Languages and Tools:</h3>
