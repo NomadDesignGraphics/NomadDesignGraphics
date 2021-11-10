@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan TOSUN</h1>
-<h3 align="center">People around me also calls me """Nomad"""</h3>
+<h3 align="center">People around me also calls me """Nomad""" nor """Server"""</h3>
 
 - 🔭 I’m currently working on a **ASP.NET MVC5.0 project**
 
