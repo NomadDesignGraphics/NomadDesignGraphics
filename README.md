@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gökhan TOSUN</h1>
 <h3 align="center">People around me also calls me """Nomad"""</h3>
 
-<style>
-div.a {
-  background-color:Orange;
-  }
-</style>
-
-<div class="a">
-
 - 🔭 I’m currently working on a **ASP.NET MVC5.0 project**
 
 - 🌱 I’m currently learning **C# / Node.JS / MVC-5 / JS / TSQL**
@@ -16,8 +8,7 @@ div.a {
 - 📫 How to reach me **toshungokhanisbirlik@gmail.com**
 
 - ⚡ Fun fact **I love birds and i am living with my Sulphur-Cockatoo parrot**
-  
-</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
