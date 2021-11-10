@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gökhan TOSUN</h1>
 <h3 align="center">People around me also calls me """Nomad"""</h3>
 
+<style>
+div.a {
+  background-color:Orange;
+  }
+</style>
 
-
-<div width="400" height="300" style="background-color:Orange;">
+<div class="a">
 
 - 🔭 I’m currently working on a **ASP.NET MVC5.0 project**
 
